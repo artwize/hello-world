@@ -1,3 +1,3 @@
-# hello-world
+# note to self
 
-I do not know myself and God forbid that I should.
+do not use github for repos
